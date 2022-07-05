@@ -1,7 +1,7 @@
 
 # SpeedtestBot-Telegram
 A Telegram Bot which returns Clients current Download / Upload Network speed
-<A href=https://python.org><IMG src=http://ForTheBadge.com/images/badges/made-with-python.svg alt=Python.org></IMG></A>
+<A href=https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/SpeedtestBot-Telegram><IMG src=http://ForTheBadge.com/images/badges/made-with-python.svg alt=Python.org></IMG></A>
 
 ## Follow me Here for more 
 
